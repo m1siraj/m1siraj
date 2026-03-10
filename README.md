@@ -105,9 +105,10 @@ Sep 2019 – May 2024
 * Enabled clients to **upload, register, and share files securely** across the network.
 
 ---
+
 # 📊 GitHub Stats
 
-![Siraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1siraj&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1siraj&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m1siraj&layout=compact&theme=tokyonight)
 
