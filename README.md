@@ -108,16 +108,16 @@ Sep 2019 – May 2024
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsiraj&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsiraj&layout=compact&theme=tokyonight)
 
 ---
 
 # 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOURPROFILE
-Email: [your-email@email.com](mailto:your-email@email.com)
+LinkedIn: https://www.linkedin.com/in/muhammad-ahmed-siraj/  
+Email: ahmed_siraj1999@hotmail.com
 
 ---
 
