@@ -107,7 +107,7 @@ Sep 2019 – May 2024
 ---
 # 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1siraj&show_icons=true&theme=tokyonight)
+![Siraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1siraj&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m1siraj&layout=compact&theme=tokyonight)
 
